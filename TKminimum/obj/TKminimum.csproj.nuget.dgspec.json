@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\TKminimum\\TKminimum.csproj": {}
+    "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\TKminimum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\TKminimum\\TKminimum.csproj": {
+    "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\TKminimum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\TKminimum\\TKminimum.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\TKminimum.csproj",
         "projectName": "TKminimum",
-        "projectPath": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\TKminimum\\TKminimum.csproj",
+        "projectPath": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\TKminimum.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\TKminimum\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
