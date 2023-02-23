@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKminimum", "TKminimum\TKminimum.csproj", "{5BE0E3B8-C0BE-46A8-80AE-FD05E61BAC88}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKminimum", "TKminimum\TKminimum.csproj", "{315ED093-6CFB-4465-A1BB-99007E7EEB4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5BE0E3B8-C0BE-46A8-80AE-FD05E61BAC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5BE0E3B8-C0BE-46A8-80AE-FD05E61BAC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5BE0E3B8-C0BE-46A8-80AE-FD05E61BAC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5BE0E3B8-C0BE-46A8-80AE-FD05E61BAC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315ED093-6CFB-4465-A1BB-99007E7EEB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315ED093-6CFB-4465-A1BB-99007E7EEB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315ED093-6CFB-4465-A1BB-99007E7EEB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315ED093-6CFB-4465-A1BB-99007E7EEB4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A1D32698-7086-4B5C-894F-FE1542D5D826}
+		SolutionGuid = {354EE67E-F4FD-4D77-9796-D19B8400BD9E}
 	EndGlobalSection
 EndGlobal
