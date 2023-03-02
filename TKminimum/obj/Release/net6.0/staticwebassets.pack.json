@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\TKminimum.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Tkminimum.png",
+      "PackagePath": "staticwebassets\\Tkminimum.png"
+    },
+    {
       "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
