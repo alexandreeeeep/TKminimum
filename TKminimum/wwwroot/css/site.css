@@ -7,7 +7,13 @@ html {
     font-size: 18px;
   }
 }
+a > div {
+    display: none;
+}
 
+a:hover > div {
+    display: block;
+}
 html {
   position: relative;
   min-height: 100%;

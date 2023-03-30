@@ -5,8 +5,28 @@
       "PackagePath": "staticwebassets\\TKminimum.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Blue Adidas.jpeg",
+      "PackagePath": "staticwebassets\\Blue Adidas.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Holljean.jpeg",
+      "PackagePath": "staticwebassets\\Holljean.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Mountainwarihouse.jpeg",
+      "PackagePath": "staticwebassets\\Mountainwarihouse.jpeg"
+    },
+    {
       "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Tkminimum.png",
       "PackagePath": "staticwebassets\\Tkminimum.png"
+    },
+    {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\ToteBag.jpeg",
+      "PackagePath": "staticwebassets\\ToteBag.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\ToteBagStar.jpeg",
+      "PackagePath": "staticwebassets\\ToteBagStar.jpeg"
     },
     {
       "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\css\\site.css",
@@ -15,6 +35,10 @@
     {
       "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\jeans.jpeg",
+      "PackagePath": "staticwebassets\\jeans.jpeg"
     },
     {
       "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\js\\site.js",
