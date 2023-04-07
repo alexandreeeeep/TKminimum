@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pX6aOp+wsilOfVwBNbK3yR6la5MZ9xxP/9WGErCq1MA=",
+  "Hash": "mivh5NtxNrZjgcQ4wiQiLkIwwkopLZErtBbro3tKmPw=",
   "Source": "TKminimum",
   "BasePath": "_content/TKminimum",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Blue Adidas.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\BlueJumper.jpg",
+      "SourceId": "TKminimum",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\",
+      "BasePath": "_content/TKminimum",
+      "RelativePath": "BlueJumper.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\BlueJumper.jpg"
     },
     {
       "Identity": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\css\\site.css",
