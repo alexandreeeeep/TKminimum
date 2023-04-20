@@ -13,8 +13,20 @@
       "PackagePath": "staticwebassets\\BlueJumper.jpg"
     },
     {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Dress.jpeg",
+      "PackagePath": "staticwebassets\\Dress.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Fila Hoodie.jpeg",
+      "PackagePath": "staticwebassets\\Fila Hoodie.jpeg"
+    },
+    {
       "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Holljean.jpeg",
       "PackagePath": "staticwebassets\\Holljean.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Massimo Dutti knit.jpeg",
+      "PackagePath": "staticwebassets\\Massimo Dutti knit.jpeg"
     },
     {
       "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Mountainwarihouse.jpeg",

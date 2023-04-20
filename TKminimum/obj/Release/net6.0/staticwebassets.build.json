@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5nYcnQVG9wCJmO+jpsUcBWKYnU0idy+WOIxP8MEYRC8=",
+  "Hash": "pFh3l52ctTrcPtrlqvQ1+F6xHEYbIg3zQ+fEV4gZWHg=",
   "Source": "TKminimum",
   "BasePath": "_content/TKminimum",
   "Mode": "Default",
@@ -102,6 +102,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Dress.jpeg",
+      "SourceId": "TKminimum",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\",
+      "BasePath": "_content/TKminimum",
+      "RelativePath": "Dress.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Dress.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\favicon.ico",
       "SourceId": "TKminimum",
       "SourceType": "Discovered",
@@ -117,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Fila Hoodie.jpeg",
+      "SourceId": "TKminimum",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\",
+      "BasePath": "_content/TKminimum",
+      "RelativePath": "Fila Hoodie.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Fila Hoodie.jpeg"
     },
     {
       "Identity": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Holljean.jpeg",
@@ -1137,6 +1171,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Massimo Dutti knit.jpeg",
+      "SourceId": "TKminimum",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\",
+      "BasePath": "_content/TKminimum",
+      "RelativePath": "Massimo Dutti knit.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Massimo Dutti knit.jpeg"
     },
     {
       "Identity": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Mountainwarihouse.jpeg",
