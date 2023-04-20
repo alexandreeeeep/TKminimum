@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mivh5NtxNrZjgcQ4wiQiLkIwwkopLZErtBbro3tKmPw=",
+  "Hash": "5nYcnQVG9wCJmO+jpsUcBWKYnU0idy+WOIxP8MEYRC8=",
   "Source": "TKminimum",
   "BasePath": "_content/TKminimum",
   "Mode": "Default",
@@ -1156,6 +1156,40 @@
       "OriginalItemSpec": "wwwroot\\Mountainwarihouse.jpeg"
     },
     {
+      "Identity": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Nike Shirt.jpeg",
+      "SourceId": "TKminimum",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\",
+      "BasePath": "_content/TKminimum",
+      "RelativePath": "Nike Shirt.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Nike Shirt.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Regratta shorts.jpeg",
+      "SourceId": "TKminimum",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\",
+      "BasePath": "_content/TKminimum",
+      "RelativePath": "Regratta shorts.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Regratta shorts.jpeg"
+    },
+    {
       "Identity": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Tkminimum.png",
       "SourceId": "TKminimum",
       "SourceType": "Discovered",
@@ -1205,6 +1239,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ToteBagStar.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\yellow shirt.jpeg",
+      "SourceId": "TKminimum",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\",
+      "BasePath": "_content/TKminimum",
+      "RelativePath": "yellow shirt.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\yellow shirt.jpeg"
     }
   ]
 }

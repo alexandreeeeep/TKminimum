@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\Mountainwarihouse.jpeg"
     },
     {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Nike Shirt.jpeg",
+      "PackagePath": "staticwebassets\\Nike Shirt.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Regratta shorts.jpeg",
+      "PackagePath": "staticwebassets\\Regratta shorts.jpeg"
+    },
+    {
       "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\Tkminimum.png",
       "PackagePath": "staticwebassets\\Tkminimum.png"
     },
@@ -275,6 +283,10 @@
     {
       "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\alexa\\source\\repos\\TKminimum\\TKminimum\\wwwroot\\yellow shirt.jpeg",
+      "PackagePath": "staticwebassets\\yellow shirt.jpeg"
     },
     {
       "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.TKminimum.Microsoft.AspNetCore.StaticWebAssets.props",
